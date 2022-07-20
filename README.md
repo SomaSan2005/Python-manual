@@ -1,1 +1,1 @@
-# Python-manual and exercises in italian 
+# Python-manual in English,exercises in italian 
